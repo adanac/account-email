@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: allen
+Build-Jdk: 1.8.0_60
+Specification-Title: account-email
+Specification-Version: 1.0.0
+Implementation-Title: account-email
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.adanac.module.account
+Created-By: Maven Integration for Eclipse
+
